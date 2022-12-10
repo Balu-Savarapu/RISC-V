@@ -1,0 +1,21 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../riscv_singlecycle.srcs/sources_1/imports/single_cycle_riscv/adder.v" \
+"../../../../riscv_singlecycle.srcs/sources_1/imports/single_cycle_riscv/alu.v" \
+"../../../../riscv_singlecycle.srcs/sources_1/imports/single_cycle_riscv/aludecoder.v" \
+"../../../../riscv_singlecycle.srcs/sources_1/imports/single_cycle_riscv/controller.v" \
+"../../../../riscv_singlecycle.srcs/sources_1/imports/single_cycle_riscv/datamem.v" \
+"../../../../riscv_singlecycle.srcs/sources_1/imports/single_cycle_riscv/instrmem.v" \
+"../../../../riscv_singlecycle.srcs/sources_1/imports/single_cycle_riscv/maindecoder.v" \
+"../../../../riscv_singlecycle.srcs/sources_1/imports/single_cycle_riscv/mux.v" \
+"../../../../riscv_singlecycle.srcs/sources_1/imports/single_cycle_riscv/program_counter.v" \
+"../../../../riscv_singlecycle.srcs/sources_1/imports/single_cycle_riscv/register_file.v" \
+"../../../../riscv_singlecycle.srcs/sources_1/imports/single_cycle_riscv/riscv.v" \
+"../../../../riscv_singlecycle.srcs/sources_1/imports/single_cycle_riscv/sign_extender.v" \
+"../../../../riscv_singlecycle.srcs/sim_1/imports/single_cycle_riscv/riscvtb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

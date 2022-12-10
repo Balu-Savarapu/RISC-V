@@ -1,0 +1,30 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/savar/Desktop/riscv_singlecycle/riscv_singlecycle/riscv_singlecycle.srcs/sources_1/imports/single_cycle_riscv/adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/savar/Desktop/riscv_singlecycle/riscv_singlecycle/riscv_singlecycle.srcs/sources_1/imports/single_cycle_riscv/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/savar/Desktop/riscv_singlecycle/riscv_singlecycle/riscv_singlecycle.srcs/sources_1/imports/single_cycle_riscv/aludecoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module aludecoder
+WARNING: [VRFC 10-8956] extra semicolon is not allowed here in this dialect; use SystemVerilog mode instead [C:/Users/savar/Desktop/riscv_singlecycle/riscv_singlecycle/riscv_singlecycle.srcs/sources_1/imports/single_cycle_riscv/aludecoder.v:25]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/savar/Desktop/riscv_singlecycle/riscv_singlecycle/riscv_singlecycle.srcs/sources_1/imports/single_cycle_riscv/controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module controller
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/savar/Desktop/riscv_singlecycle/riscv_singlecycle/riscv_singlecycle.srcs/sources_1/imports/single_cycle_riscv/datamem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module datamem
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/savar/Desktop/riscv_singlecycle/riscv_singlecycle/riscv_singlecycle.srcs/sources_1/imports/single_cycle_riscv/instrmem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module instrmem
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/savar/Desktop/riscv_singlecycle/riscv_singlecycle/riscv_singlecycle.srcs/sources_1/imports/single_cycle_riscv/maindecoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module maindecoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/savar/Desktop/riscv_singlecycle/riscv_singlecycle/riscv_singlecycle.srcs/sources_1/imports/single_cycle_riscv/mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/savar/Desktop/riscv_singlecycle/riscv_singlecycle/riscv_singlecycle.srcs/sources_1/imports/single_cycle_riscv/program_counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module program_counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/savar/Desktop/riscv_singlecycle/riscv_singlecycle/riscv_singlecycle.srcs/sources_1/imports/single_cycle_riscv/register_file.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register_file
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/savar/Desktop/riscv_singlecycle/riscv_singlecycle/riscv_singlecycle.srcs/sources_1/imports/single_cycle_riscv/riscv.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module riscv
+WARNING: [VRFC 10-2938] 'resultmuxout' is already implicitly declared on line 17 [C:/Users/savar/Desktop/riscv_singlecycle/riscv_singlecycle/riscv_singlecycle.srcs/sources_1/imports/single_cycle_riscv/riscv.v:35]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/savar/Desktop/riscv_singlecycle/riscv_singlecycle/riscv_singlecycle.srcs/sources_1/imports/single_cycle_riscv/sign_extender.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sign_extender
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/savar/Desktop/riscv_singlecycle/riscv_singlecycle/riscv_singlecycle.srcs/sim_1/imports/single_cycle_riscv/riscvtb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module riscvtb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/savar/Desktop/riscv_singlecycle/riscv_singlecycle/riscv_singlecycle.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
